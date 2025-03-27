@@ -20,7 +20,7 @@
   </summary>
  
   - All class definitions will be in classes.py (It will not be inside any folder)
-  - Refer to the inheritance diagram for relationships between classes
+  - Refer to the [inheritance diagram](https://github.com/suchialex/CINS3002-HW10/blob/main/Employee%20inherited%20from%20Person.pdf) for relationships between classes
 </details>
 
 # Start Working
