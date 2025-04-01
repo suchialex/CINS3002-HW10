@@ -54,7 +54,29 @@
 
 <details>
   <summary>
-    ✅ 2. Define class <code>Student</code> as a child of <code>Person</code>
+    ✅ 2. Define class <code>Employee</code> as a child of <code>Person</code>
+  </summary>
+
+  - Create the class and define initializer
+    - accepting attributes emp_id, name, phone, email, department, salary
+    - Call the parent init to initialize name, phone, email (⏩ Refer to 11-5 Try this)
+    - initialize emp_id, department and salary as __protected attributes__ 
+  - Define mutators `set_salary`, `set_department` accepting new_salary and new_department (⏩ Refer to 10-6a)
+  - Define accessors `get_empid`, `get_department`, `get_salary` (⏩ Refer to 10-5a)
+  - Define str method to return employee data fields formatted as shown below:
+    - emp_id centered over 6 characters
+    - name left aligned over 15 characters
+    - phone center aligned over 12 characters
+    - department center aligned over 6 characters
+    - salary right aligned over 8 characters
+    - email left aligned over 15 characters   
+    (⏩ Refer to 10-4)
+</details>
+
+
+<details>
+  <summary>
+    ✅ 3. Define class <code>Student</code> as a child of <code>Person</code>
   </summary>
 
   - Create the class and define initializer
@@ -72,28 +94,6 @@
     - email left aligned over 15 characters  
     (⏩ Refer to 10-4)
 
-</details>
-
-
-<details>
-  <summary>
-    ✅ 3. Define class <code>Employee</code> as a child of <code>Person</code>
-  </summary>
-
-  - Create the class and define initializer
-    - accepting attributes emp_id, name, phone, email, department, salary
-    - Call the parent init to initialize name, phone, email (⏩ Refer to 11-5 Try this)
-    - initialize emp_id, department and salary as __protected attributes__ 
-  - Define mutators `set_salary`, `set_department` accepting new_salary and new_department (⏩ Refer to 10-6a)
-  - Define accessors `get_empid`, `get_department`, `get_salary` (⏩ Refer to 10-5a)
-  - Define str method to return employee data fields formatted as shown below:
-    - emp_id centered over 6 characters
-    - name left aligned over 15 characters
-    - phone center aligned over 12 characters
-    - department center aligned over 6 characters
-    - salary right aligned over 8 characters
-    - email left aligned over 15 characters   
-    (⏩ Refer to 10-4)
 </details>
 
 ## In employees/class_functions.py
