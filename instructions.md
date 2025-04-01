@@ -32,9 +32,10 @@
 
   - Create new file main.py
   - Create folder hw10
-  - Inside the folder create two folders employees and students
+  - Inside the folder create a Python file called `classes.py` two folders `employees` and `students`
   - Inside the folder `employees` create files class_functions.py and validations.py
   - Copy the contents of class_functions.py and validations.py from the previous assignment
+  - Inside the folder `students` create files class_functions.py and validations.py
 
 </details>
 
