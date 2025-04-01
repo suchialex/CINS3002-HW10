@@ -58,11 +58,11 @@
   </summary>
 
   - Create the class and define initializer
-    - accepting attributes id, name, phone, email, major, classification
+    - accepting attributes stu_id, name, phone, email, major, classification
     - Call the parent init to initialize name, phone, email (⏩ Refer to 11-5 Try this)
-    - initialize id, major and classification as __protected attributes__ 
+    - initialize stu_id, major and classification as __protected attributes__ 
   - Define mutators `set_major`, `set_classification` accepting parameters new_major and new_classification (⏩ Refer to 10-6a)
-  - Define accessors `get_id`, `get_major`, `get_classification` (⏩ Refer to 10-5a)
+  - Define accessors `get_stuid`, `get_major`, `get_classification` (⏩ Refer to 10-5a)
   - Define str method to return all the instance data in the format given below 
     - id centered over 8 characters
     - name left aligned over 15 characters
@@ -81,9 +81,9 @@
   </summary>
 
   - Create the class and define initializer
-    - accepting attributes id, name, phone, email, department, salary
+    - accepting attributes emp_id, name, phone, email, department, salary
     - Call the parent init to initialize name, phone, email (⏩ Refer to 11-5 Try this)
-    - initialize id, department and salary as __protected attributes__ 
+    - initialize emp_id, department and salary as __protected attributes__ 
   - Define mutators `set_salary`, `set_department` accepting new_salary and new_department (⏩ Refer to 10-6a)
   - Define accessors `get_empid`, `get_department`, `get_salary` (⏩ Refer to 10-5a)
   - Define str method to return employee data fields formatted as shown below:
