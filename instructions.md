@@ -32,10 +32,12 @@
 
   - Create new file main.py
   - Create folder hw10
-  - Inside the folder create a Python file called `classes.py` two folders `employees` and `students`
-  - Inside the folder `employees` create files class_functions.py and validations.py
+  - Inside the folder hw10 create
+    - Two Python files `classes.py` and `validations.py`
+    - Two folders `employees` and `students`
+  - Inside the folder `employees` create file class_functions.py
   - Copy the contents of class_functions.py and validations.py from the previous assignment
-  - Inside the folder `students` create files class_functions.py and validations.py
+  - Inside the folder `students` create file class_functions.py
 
 </details>
 
@@ -104,6 +106,13 @@
 </summary>
 
   - Write an import statement to import the Employee class from classes.py
+  - In add_employee function
+    - Add an input statement that accepts phone number and store in a variable (💲 Bonus 1pt: Write validate_phone accepting only numbers, 10-digits long and starts with 318)
+    - When creating new_employee object, make sure to pass all the arguments in the same order as specified in the initializer of Employee class
+  - In display_employees function, replace the print statment with formatted values and simply print the object (this will call the str method)
+  - Execute code and add one or more employees and exit (it will create the pickled file)
+  - Execute again and choose Display Employee option to check if display is in a tabular format as defined in the str method
+  - Make sure all get methods and set methods used in class_functions are matching the ones defined in Employee (or Person)
 </details>
 
 ## In main.py
@@ -115,14 +124,10 @@
 
   - Inside main()
     - Import and call the employee_operations() located in class_functions.py
-  - In class_functions.py, in display_employees function, replace the print statment with formatted values and simply print the object (this will call the str method)
+  - In class_functions.py, 
   - Execute code
   - All the employee operations should work without having to make any changes
 </details>
-
-## Create New Folder Students
-
-## Create new file class_functions.py in students folder
 
 ## In students/class_functions.py
 
