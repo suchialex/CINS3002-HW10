@@ -64,7 +64,7 @@
   - Define mutators `set_major`, `set_classification` accepting parameters new_major and new_classification (⏩ Refer to 10-6a)
   - Define accessors `get_stuid`, `get_major`, `get_classification` (⏩ Refer to 10-5a)
   - Define str method to return all the instance data in the format given below 
-    - id centered over 8 characters
+    - stu_id centered over 8 characters
     - name left aligned over 15 characters
     - phone center aligned over 12 characters
     - major center aligned over 6 characters
@@ -87,7 +87,7 @@
   - Define mutators `set_salary`, `set_department` accepting new_salary and new_department (⏩ Refer to 10-6a)
   - Define accessors `get_empid`, `get_department`, `get_salary` (⏩ Refer to 10-5a)
   - Define str method to return employee data fields formatted as shown below:
-    - id centered over 6 characters
+    - emp_id centered over 6 characters
     - name left aligned over 15 characters
     - phone center aligned over 12 characters
     - department center aligned over 6 characters
