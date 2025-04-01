@@ -24,15 +24,19 @@
 </details>
 
 # Start Working
+
 <details>
   <summary>
-    ✅ Copy employees folder
+    ✅ Create Pycharm Project
   </summary>
 
-  - From previous homework, copy the contents of class_functions.py and validations.py
+  - Create new file main.py
+  - Create folder hw10
+  - Inside the folder create two folders employees and students
+  - Inside the folder `employees` create files class_functions.py and validations.py
+  - Copy the contents of class_functions.py and validations.py from the previous assignment
 
 </details>
-
 
 ## In classes.py
 
