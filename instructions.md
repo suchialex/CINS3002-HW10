@@ -155,5 +155,5 @@ Using the Student class, create student objects to write code for the following 
     - You must create a dictionary of student objects
     - Serialize the dictionary and save in the file students.class (⏩ Refer to 9-10)
     - Call this function in main.py after the function call to employee_operations functions()
-    - Bonus 2pts: If you write validation functions in validations.py
+    - 💲Bonus 5pts: If you write validation functions in validations.py - you may make up your own validation conditions
 </details>
