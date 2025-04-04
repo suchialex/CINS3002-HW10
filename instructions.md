@@ -123,7 +123,7 @@
   ✅ Write code for functions
 </summary>
 
-Using the Student class, create student objects to write code for the following functions. (Refer to employee/class_functions.py if needed). You must import the class from classes.py
+Using the Student class, create student objects to write code for the following functions. (Refer to employee/class_functions.py if needed). You must import the student class from classes.py (May not have to be complete by due date, but student must code some of the functions. Instructor will allow two weeks for full code completion)
 
   - student_operations
   - file_to_dictionary (unpickle students.class and store in a dictionary, if file not found or empty return empty dictionary)
