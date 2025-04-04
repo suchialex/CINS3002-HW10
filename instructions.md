@@ -38,6 +38,7 @@
   - Inside the folder `employees` create file class_functions.py
   - Copy the contents of class_functions.py and validations.py from the previous assignment
   - Inside the folder `students` create file class_functions.py
+  - Fix all the import statements according to the file structure
 
 </details>
 
