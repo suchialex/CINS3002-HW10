@@ -2,20 +2,6 @@
 
 <details>
   <summary>
-    💡 REPL Guide
-  </summary>
-
-  - To toggle commenting, highlight the line(s) and press Ctrl + /
-  - To move a statement or block of statements one indent to the right, highlight the statement(s)  press Tab
-  - To move a statement or block of statements one indent to the left, highlight the statement(s)  press Shift+Tab
-  - Avoid using backspaces or spaces to remove or place indents
-  - To ask the instructor a code question, highlight the line(s) of code and press Alt + / and type in your question/issue/comment and click on collapse
-  - To view comments placed by the instructor click on the comment icon at the end of any highlighted code
-  - If your issue is resolved, click on Resolve to remove the comment
-</details>
-
-<details>
-  <summary>
     Assignment Instructions
   </summary>
  
